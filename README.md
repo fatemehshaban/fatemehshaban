@@ -2,7 +2,7 @@
 
 **Frontend Developer · React.js · Next.js · TypeScript**
 
-📞 +98 915 319 3826 · ✉️ fatemeshaban1990@gmail.com
+✉️ fatemeshaban1990@gmail.com
 
 ---
 
