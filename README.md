@@ -1,79 +1,88 @@
-# 👋 Fatemeh Shaban | Front-end Developer
+# 👋 Fatemeh Shaban
 
-> Crafting intuitive, high-performance web applications with React & Next.js
+**Frontend Developer · React.js · Next.js · TypeScript**
 
-I'm a passionate front-end developer specializing in building **user-friendly, responsive, and accessible interfaces**. With a strong foundation in modern frameworks and a keen eye for clean code, I turn complex requirements into smooth digital experiences.
-
----
-
-### 🎯 Front-end Expertise
-
-| Area | Technologies |
-|------|--------------|
-| **Core** | HTML, CSS, JavaScript, TypeScript, PWA, Clean Code |
-| **Frameworks** | React, Next.js, Angular |
-| **Styling** | Tailwind CSS, Material UI, Bootstrap |
-| **State & Data** | REST APIs, JSON |
+📞 +98 915 319 3826 · ✉️ fatemeshaban1990@gmail.com
 
 ---
 
-### 🧰 Tools & Workflow
-Git · NPM · YARN · VS Code · WebStorm
-Agile/Scrum · Jira · GitHub · GitLab · Azure DevOps
+## Professional Summary
+
+Frontend Developer with 3+ years of experience building responsive and scalable web applications using React, Next.js, Angular, and TypeScript. Skilled in component-based architecture, state management (Redux Toolkit, Zustand, React Query), and REST API integration. Additional background in machine learning and database engineering brings a unique full-picture perspective to building production-grade applications. Passionate about clean UI, performance, and continuous learning.
 
 ---
 
-### 🔧 Back-end Familiarity (Full-stack capable)
+## Technical Skills
 
-While my passion is front-end, I understand the whole stack:
-
-- **C#**, **.NET 8**, ASP.NET Core, EF Core, Dapper
-- Design Patterns, DDD, TDD, BDD, Clean Code
-- CQRS, Mediator Pattern, Microservices
-- SQL Server, Redis, REST APIs
-- Docker, CI/CD Pipeline, IIS
-
-This back-end knowledge helps me collaborate better with back-end teams and build more realistic front-end integrations.
-
----
-
-### 🏥 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Laboratory Information System (LIS)** | Healthcare & retail industry – built with React, TypeScript, Material UI |
-| **Hofer ERP** | Enterprise dashboard for process optimization |
-| **Mashhad University of Medical Sciences** | Healthcare interface with performance optimization |
+| Category | Technologies |
+|---|---|
+| **Core** | React.js, Next.js, Angular, TypeScript, JavaScript (ES6+) |
+| **Styling & UI** | Tailwind CSS, Material UI, Ant Design, HTML5, CSS3 |
+| **State & Data** | Redux Toolkit, Zustand, React Query, REST APIs |
+| **Dev Tools** | Git, Storybook, Vite |
+| **Databases** | SQL Server, PostgreSQL |
+| **ML / Data** | Python, TensorFlow, Pandas, NumPy, NLP *(prior experience)* |
 
 ---
 
-### 💼 Work Experience
+## Professional Experience
 
-**Front-end Developer @ Freelancer** (2021 – present)
-- Design and develop LIS systems for healthcare and retail
-- Build user-friendly dashboards that improve medical & production processes
-- Optimize for performance, scalability, and cross-browser compatibility
+### Frontend Developer · Xeptan Company *(Remote)*
+`May 2025 – May 2026`
 
-**IT Expert @ Razavi Hospital, Mashhad** (2015 – 2021)
-- Database design and software solutions for healthcare industry
+- Developed and maintained production web applications using React, Next.js, and TypeScript
+- Built reusable, accessible UI component libraries and integrated RESTful APIs
+- Documented components with Storybook to improve developer experience and design consistency
+- Collaborated with designers and backend engineers in an Agile team to deliver features on schedule
 
----
-
-### 🎓 Education
-
-**M.Sc. in Software Engineering** | Khavaran Institute (2018–2020) – GPA 16.5/20  
-*Thesis: Intrusion Detection System Using Genetic Algorithm & SVM*
-
-**B.S. in Software Engineering** | Khavaran Institute (2010–2012) – GPA 16/20
+**Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Ant Design, Storybook
 
 ---
 
-### 🌍 Open to
+### Full Stack Developer (Angular-Focused) · Parnian Company
+`Mar 2023 – Apr 2025`
 
-✅ Remote opportunities  
-✅ Front-end & React/Next.js roles  
-✅ Full-stack collaborations  
-✅ Healthcare & enterprise projects
+- Developed ERP and accounting system modules (Hoofer ERP) used across enterprise operations
+- Built responsive frontend features using Angular and TypeScript with a focus on maintainability
+- Integrated REST APIs and contributed to backend development using ASP.NET MVC
+- Improved system performance and reduced technical debt through refactoring and code reviews
+
+**Tech Stack:** Angular, TypeScript, JavaScript, ASP.NET MVC, SQL Server
+
+---
+
+### Machine Learning Engineer · Baztab Honar Company
+`Jan 2022 – Dec 2022`
+
+- Developed ML models for user behavior analysis and prediction on social media platforms
+- Performed end-to-end data pipeline work: collection, preprocessing, feature engineering, and model evaluation
+- Delivered data-driven insights supporting marketing analytics and decision-making
+
+**Tech Stack:** Python, TensorFlow, Pandas, NumPy, NLP, PostgreSQL, Web Scraping
+
+---
+
+### Software Engineer (Database & HIS) · Razavi Hospital
+`2015 – 2021`
+
+- Designed and implemented database solutions for Hospital Information Systems (HIS)
+- Maintained and optimized Microsoft SQL Server databases ensuring reliability and performance
+- Collaborated with clinical and technical teams to support healthcare software operations
+
+**Tech Stack:** Microsoft SQL Server, Database Design, Healthcare Information Systems
+
+---
+
+## Education
+
+**M.Sc. in Software Engineering** · Khavaran University, Iran
+
+---
+
+## Languages
+
+- 🇮🇷 Persian — Native
+- 🇬🇧 English — B1 (Intermediate)
 
 ---
 
